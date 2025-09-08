@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+pinecone
+pydantic
+python-multipart
+pdfplumber
+requests
+python-dotenv
+tqdm
+httpx
+redis
+sentence-transformers
